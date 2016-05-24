@@ -1,0 +1,26 @@
+# Site settings
+title: homebrew.live
+email: live@homebrew.live
+url: http://www.homebrew.live
+description: "Watch as we homebrew batches of beer live"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: homebrew.live
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/homebrewlive
+  - title: facebook
+    url:
+  - title: github
+    url: https://github.com/homebrewlive
+
+# Build settings
+markdown: kramdown
+permalink: pretty
